@@ -1,34 +1,23 @@
-<div align="center">
+# Hi, I'm kirito
 
-# Hi, I'm Kirito
-
-Learning Software Engineering at UESTC.
-
-</div>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=kiritosuki&label=Profile%20views&color=0e75b6&style=flat" alt="kiritosuki" />
+</p>
 
 <details open>
 <summary><strong>中文</strong></summary>
 
 ## 关于我
 
-我是一名正在电子科技大学学习软件工程的本科生，主要关注后端开发、Go/Java 服务端技术、分布式系统与工程化实践。
-
-我喜欢从系统设计和底层原理出发理解技术，也会持续通过实践打磨编码能力、问题定位能力和工程交付能力。
-
-## 技术方向
-
-- 后端开发：关注服务端架构、接口设计、业务建模与系统可维护性
-- 编程语言：主要使用 Go，也了解 Java 生态中的常见开发方式
-- 分布式系统：关注一致性、容错、服务发现、负载均衡与高可用设计
-- 数据与缓存：了解 MySQL、Redis 等常用基础设施的核心机制与性能优化思路
-- 工程化：熟悉 Linux、Git、Docker 以及常见 CI/CD 工作流
-
-## 正在学习
-
-- 更深入地理解 Go 运行时、并发模型与性能调优
-- 构建可靠、可观测、可扩展的后端服务
-- 分布式一致性算法与实际系统落地
-- 云原生与 DevOps 相关工程实践
+- 🔭 我目前关注 **GoCache、Raft-based distributed KV storage 和开发者工具**
+- 🌱 我正在学习 **分布式系统、后端基础设施和云原生工程实践**
+- 👯 希望参与 **Go、分布式系统、云原生和开发者工具相关开源项目**
+- 🤝 欢迎交流 **Go、云原生、中间件和开源基础设施项目**
+- 💬 可以和我聊 **Go/Java、SQL、Redis、MQ、Docker、Kubernetes、Linux 和 CI/CD**
+- 🎓 Learning Software Engineering at **UESTC**
+- 📫 联系我：**3322640054@qq.com**
+- 📝 博客：**[https://kiritosuki.top](https://kiritosuki.top)**
+- ⚡ Fun fact：我每天都在学习让分布式系统达成共识，但让朋友们决定午饭吃什么依然更难。
 
 </details>
 
@@ -37,23 +26,43 @@ Learning Software Engineering at UESTC.
 
 ## About Me
 
-I am an undergraduate student learning Software Engineering at UESTC, with a focus on backend development, Go/Java server-side engineering, distributed systems, and practical software engineering.
-
-I enjoy understanding technologies from system design and low-level principles, while improving my coding, debugging, and delivery skills through hands-on practice.
-
-## Technical Interests
-
-- Backend development: service architecture, API design, domain modeling, and maintainability
-- Programming languages: mainly Go, with experience in common Java backend ecosystems
-- Distributed systems: consistency, fault tolerance, service discovery, load balancing, and high availability
-- Data and caching: MySQL, Redis, and performance-oriented infrastructure design
-- Engineering workflow: Linux, Git, Docker, and common CI/CD pipelines
-
-## Currently Learning
-
-- Go runtime internals, concurrency, and performance tuning
-- Reliable, observable, and scalable backend services
-- Distributed consensus algorithms and real-world system design
-- Cloud native and DevOps engineering practices
+- 🔭 I'm currently working on **GoCache, Raft-based distributed KV storage, and developer tools**
+- 🌱 I'm currently learning **distributed systems, backend infrastructure, and cloud native engineering**
+- 👯 I'm looking to collaborate on **open source projects related to Go, distributed systems, cloud native, and developer tools**
+- 🤝 I'm looking for help with **Go, cloud native, middleware, and open source infrastructure projects**
+- 💬 Ask me about **Go/Java, SQL, Redis, MQ, Docker, Kubernetes, Linux, and CI/CD**
+- 🎓 Learning Software Engineering at **UESTC**
+- 📫 How to reach me: **3322640054@qq.com**
+- 📝 I regularly write articles on **[https://kiritosuki.top](https://kiritosuki.top)**
+- ⚡ Fun fact: I spend my days helping distributed systems reach consensus, but getting my friends to agree on lunch is still harder.
 
 </details>
+
+## Connect With Me
+
+<p align="left">
+  <a href="https://github.com/kiritosuki" target="_blank" rel="noreferrer">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="kiritosuki" height="30" width="40" />
+  </a>
+  <a href="https://kiritosuki.top" target="_blank" rel="noreferrer">
+    <img align="center" src="https://skillicons.dev/icons?i=cloudflare" alt="blog" height="32" width="40" />
+  </a>
+</p>
+
+## Languages And Tools
+
+<p align="left">
+  <a href="https://go.dev/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=go" alt="go" width="40" height="40" /></a>
+  <a href="https://www.java.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40" /></a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40" /></a>
+  <a href="https://redis.io/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=redis" alt="redis" width="40" height="40" /></a>
+  <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=kafka" alt="kafka" width="40" height="40" /></a>
+  <a href="https://www.rabbitmq.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=rabbitmq" alt="rabbitmq" width="40" height="40" /></a>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40" /></a>
+  <a href="https://kubernetes.io/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=kubernetes" alt="kubernetes" width="40" height="40" /></a>
+  <a href="https://www.nginx.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=nginx" alt="nginx" width="40" height="40" /></a>
+  <a href="https://www.jenkins.io/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=jenkins" alt="jenkins" width="40" height="40" /></a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40" /></a>
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40" /></a>
+  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=bash" alt="bash" width="40" height="40" /></a>
+</p>
