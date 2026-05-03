@@ -16,7 +16,7 @@
 
 ## Connect With Me
 
-<p align="left"><a href="https://github.com/kiritosuki" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=github" alt="github" width="40" height="40" /></a>&nbsp;<a href="https://kiritosuki.top" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=cloudflare" alt="blog" width="40" height="40" /></a></p>
+[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/kiritosuki)&nbsp;[![Blog](https://skillicons.dev/icons?i=cloudflare)](https://kiritosuki.top)
 
 ## Languages And Tools
 
